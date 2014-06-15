@@ -3,6 +3,9 @@ united_states:
   subunits:
     legislative_branch:
       name: The Legislative Branch of the United States Government
+      subunits:
+        - House of Representatives
+        - Senate
     executive_branch:
       name: The Executive Branch of the United States Government
       subunits:
